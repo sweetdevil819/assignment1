@@ -2,6 +2,10 @@
 
 This is my personal portfolio website developed using HTML. It showcases my profile, skills, projects, and contact information.
 
+## Live Website
+
+🔗 https://assignment1-nine-wine.vercel.app/
+
 ## Features
 
 * **Home Page** – Introduction and welcome section.
